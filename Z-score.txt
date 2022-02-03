@@ -1,0 +1,1 @@
+mean of sample - mean of sample distribution/standard deviation of sample distribution
